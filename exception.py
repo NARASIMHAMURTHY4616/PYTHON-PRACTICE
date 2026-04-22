@@ -1,6 +1,6 @@
 #exception handing 
 try:
-    print("") 
+    print("no problem") 
 except :
     print("error")
 print("welcome")
